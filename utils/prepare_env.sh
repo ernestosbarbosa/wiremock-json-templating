@@ -1,0 +1,1 @@
+npm install && sh utils/rebuild.sh

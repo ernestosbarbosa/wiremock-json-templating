@@ -1,0 +1,15 @@
+{
+  "name": "wiremock-json-templating",
+  "version": "1.0.0",
+  "description": "Wiremock server + JSON templating and JS parser.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "camusjs": "^2.0.0",
+    "chance": "^1.0.9"
+  }
+}

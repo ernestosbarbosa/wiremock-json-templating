@@ -1,0 +1,1 @@
+node generator/rebuild.js

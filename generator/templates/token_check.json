@@ -1,0 +1,10 @@
+{
+    "priority": 2,
+    "request": {
+        "method": "GET",
+        "urlPathPattern": "/token/check(/)?"
+    },
+    "response": {
+        "*": "token_check"
+    }
+}

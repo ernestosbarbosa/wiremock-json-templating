@@ -1,0 +1,7 @@
+{
+    "login": "username",
+    "hash_login": "c6b4870c-c70e-5fd8-9ffc-4d729be0b9eb",
+    "access_token_auth_login": "41f66935-e6c8-50e7-875c-a88bc3295285",
+    "refresh_token_auth_login": "9c8f023b-2452-5fcc-b0e6-f93d8f808bc7",
+    "prioridade_wiremock": 2
+}

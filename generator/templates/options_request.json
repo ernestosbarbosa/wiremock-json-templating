@@ -1,0 +1,19 @@
+{
+    "priority": 0,
+    "request": {
+        "method": "OPTIONS"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Access-Control-Allow-Credentials": "true",
+            "Access-Control-Allow-Headers": "authorization, cache-control, content-type",
+            "Access-Control-Allow-Methods": "DELETE,GET,PATCH,POST,PUT",
+            "Access-Control-Allow-Origin": "*",
+            "Access-Control-Max-Age": "1800",
+            "Allow": "GET, HEAD, POST, PUT, DELETE, TRACE, OPTIONS, PATCH",
+            "Connection": "keep-alive",
+            "Content-Length": "0"
+        }
+    }
+}
